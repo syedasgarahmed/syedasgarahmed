@@ -44,7 +44,7 @@
   <kbd>
   <img align="centre" alt="Syed's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
-<br>
+
 - 🏢 I am a Software Engineer | Developer
 - 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
 - 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
