@@ -10,7 +10,10 @@
   <kbd>
   <img align="centre" alt="Syed's LinkTree" width="22px" src="https://media.licdn.com/dms/image/D5603AQGizqh8U5-1oQ/profile-displayphoto-shrink_400_400/0/1694498612014?e=1701907200&v=beta&t=BGQrxzgJv7rIHC7SEOmv9z2G2jrJSOs_6IodKR2Rm5o" />
 </a>
-   
+   <br>
+
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <a href="https://linkedin.com/in/syed-asgar-ahmed">
   <kbd>
   <img align="centre" alt="Syed's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
