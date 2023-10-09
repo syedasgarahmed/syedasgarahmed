@@ -47,6 +47,6 @@
 - 🏢 I am a Software Engineer | Developer
 - 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
 - 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
-- 🙋‍ More about me: Visit my [website](https://syedasgarahmed.github.io/)
+- 🙋🏻‍♂️‍ More about me: Visit my [website](https://syedasgarahmed.github.io/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/syed-asgar-ahmed/)
 - 👯 Pronouns: He/Him
