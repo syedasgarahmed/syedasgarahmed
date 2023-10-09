@@ -9,7 +9,7 @@
    <br>
 
    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<br><br>
+<br>
  <a href="https://linktr.ee/syedasgarahmed">
   <kbd>
   <img align="centre" alt="Syed's LinkTree" width="22px" src="https://media.licdn.com/dms/image/D5603AQGizqh8U5-1oQ/profile-displayphoto-shrink_400_400/0/1694498612014?e=1701907200&v=beta&t=BGQrxzgJv7rIHC7SEOmv9z2G2jrJSOs_6IodKR2Rm5o" />
@@ -44,7 +44,7 @@
   <kbd>
   <img align="centre" alt="Syed's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
-
+<br>
 - 🏢 I am a Software Engineer | Developer
 - 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
 - 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
