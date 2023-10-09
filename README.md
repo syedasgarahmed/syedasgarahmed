@@ -44,6 +44,11 @@
   <img align="centre" alt="Syed's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedasgarahmed\&rank_icon=github\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
 <br/>
 <br/>
 
