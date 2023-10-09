@@ -44,6 +44,15 @@
   <img align="centre" alt="Syed's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
 
+- 🏢 I am a Software Engineer | Developer
+- 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
+- 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
+- 🙋🏻‍♂️‍ More about me: Visit my [website](https://syedasgarahmed.github.io/)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/syed-asgar-ahmed/)
+- 👯 Pronouns: He/Him
+
+
+  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
@@ -51,10 +60,3 @@
 
 <br/>
 <br/>
-
-- 🏢 I am a Software Engineer | Developer
-- 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
-- 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
-- 🙋🏻‍♂️‍ More about me: Visit my [website](https://syedasgarahmed.github.io/)
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/syed-asgar-ahmed/)
-- 👯 Pronouns: He/Him
