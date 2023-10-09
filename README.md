@@ -1,9 +1,9 @@
 ### Hey there :wave:
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1100/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Syed+Asgar+Ahmed)](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1100/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedasgarahmed&label=Views&color=blue&style=plastic" alt="syed" /> </p>
    <br>
