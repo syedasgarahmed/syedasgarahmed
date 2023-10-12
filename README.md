@@ -62,3 +62,6 @@
 
 <br/>
 <br/>
+
+
+[![An image of @syedasgarahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedasgarahmed)](https://holopin.io/@syedasgarahmed)
