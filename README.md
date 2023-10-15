@@ -53,9 +53,6 @@
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/syed-asgar-ahmed/)
 - 👨🏻‍💼 Pronouns: He/Him
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?syedasgarahmed=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -67,3 +64,8 @@
 
 
 [![An image of @syedasgarahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedasgarahmed)](https://holopin.io/@syedasgarahmed)
+
+
+
+
+<p dir="auto"><a href="https://github.com/syedasgarahmed/github-profile-trophy"><img src="https://camo.githubusercontent.com/a246acba2f5b9d0e32f087f744bae9b6de18373fda71e2e2bf17b0eb3722fcc1/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7377657461313334267468656d653d6f6e656461726b" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=syedasgarahmed&amp;theme=onedark" style="max-width: 100%;"></a></p>
