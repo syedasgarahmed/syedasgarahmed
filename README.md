@@ -46,7 +46,7 @@
 </a>
 <br/><br/>
      
-- 🏢 I am a Software Engineer | Developer
+- 🏢 I am a Software Engineer | PHP Backend Developer at The Netdomains
 - 🏫 2023 MCA graduate from Sir M Visvesvaraya Institute of Technology
 - 💻 Former SDE Intern at Advitheya Technology, Bengaluru, India
 - 🙋🏻‍♂️‍ More about me: Visit my [website](https://syedasgarahmed.github.io/)
