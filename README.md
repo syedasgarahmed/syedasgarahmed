@@ -1,5 +1,5 @@
 ### Hey there :wave: 
-<img align="left" alt="Coding" width="30px" height="20" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif"><br>
+<img align="left" alt="Coding" width="30px" height="20" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif">
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1100/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
