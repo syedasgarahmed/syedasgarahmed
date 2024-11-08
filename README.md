@@ -60,7 +60,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedasgarahmed\&rank_icon=github\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
 
 <br/>
 <br/>
